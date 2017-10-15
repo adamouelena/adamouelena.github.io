@@ -48,11 +48,11 @@ p.show {font-family: title;font-size: 1.3vw;}
 
 p.detail {font-family: title;font-size: 0.9vw;text-align: justify; }
 
-p.bold {font-family: title-bold;font-size: 1vw;text-align: justify;} 
+p.bold {font-family: title-bold;font-size: 0.9vw;text-align: justify;} 
 
 p.italic {font-family: title;font-size: 0.9vw;text-align: justify;font-style: italic;}
 
-.left a {text-decoration: none;font-size: 0.9vw;padding: 
+.left a {text-decoration: none;font-size: 1vw;padding: 
     7%;font-family: title;color:#818181;display: block;}
 .linka a {border: black 1px solid; text-decoration: none;font-size: 0.9vw;padding: 1%;font-family: title;color:black;float: right;}
 .linka1 a {border: black 1px solid; text-decoration: none;font-size: 0.9vw;padding: 1%;font-family: title;color:black;}
