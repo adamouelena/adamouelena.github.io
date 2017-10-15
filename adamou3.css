@@ -92,7 +92,11 @@ iframe {
 }
 
 
-
+@media screen (max-width: 960px) {
+    .content {
+        transform: scale(2.6);
+    }
+}
 
 
 
