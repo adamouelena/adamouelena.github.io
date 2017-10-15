@@ -38,19 +38,19 @@ body {
 
 @font-face {font-family: title-bold;src: url(font/roboto/Roboto-Bold.ttf);}
 
-p.title {font-family: title;font-size: 2.5vw;} 
+p.title {font-family: title;font-size: 2.5vw; color: black;} 
 
 p { margin:6; }
 
 
 
-p.show {font-family: title;font-size: 1.3vw;}    
+p.show {font-family: title;font-size: 1.3vw; color: black;}    
 
-p.detail {font-family: title;font-size: 0.9vw;text-align: justify; }
+p.detail {font-family: title;font-size: 0.9vw;text-align: justify; color: black;}
 
-p.bold {font-family: title-bold;font-size: 0.9vw;text-align: justify;} 
+p.bold {font-family: title-bold;font-size: 0.9vw;text-align: justify; color: black;} 
 
-p.italic {font-family: title;font-size: 0.9vw;text-align: justify;font-style: italic;}
+p.italic {font-family: title;font-size: 0.9vw;text-align: justify;font-style: italic; color: black;}
 
 .left a {text-decoration: none;font-size: 1vw;padding: 
     7%;font-family: title;color:#818181;display: block;}
