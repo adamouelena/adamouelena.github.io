@@ -24,6 +24,11 @@ body {
 .left a:focus{ text-decoration:underline ; color: #33cc33;}
 .right {width: 10%;  float:right; }
 .slideshow-container{height: 33vw;  }
+    .save {
+   
+  height: 0%;
+  
+}
 
 
 
@@ -139,12 +144,13 @@ p.italic {font-family: title;font-size: 3vw;text-align: justify;font-style: ital
   height: 4vw;
   width: 4vw;
     margin-bottom: 5%;
+    position: sticky;
   
 }
     
     .save {
    
-  height: 20%;
+  height: 30%;
   
 }
 iframe {
